@@ -7,6 +7,9 @@ schema: 2.0.0
 
 # Remove-TeamChannelUser
 
+> [!IMPORTANT]
+> The new OneDrive for Business Next Generation Sync Client lets you connect and sync files from your OneDrive for Business. You can add a work or school account to the new OneDrive for Business sync client and sync all your files in OneDrive to your computer.  For more information, see [Improve your OneDrive sync experience](https://go.microsoft.com/fwlink/p/?LinkId=717436).
+
 ## SYNOPSIS
 Note: the command will return immediately, but the Teams application will not reflect the update immediately, please refresh the members page to see the update.
 

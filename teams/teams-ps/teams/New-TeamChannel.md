@@ -10,6 +10,9 @@ ms.reviewer:
 
 # New-TeamChannel
 
+> [!IMPORTANT]
+> The new OneDrive for Business Next Generation Sync Client lets you connect and sync files from your OneDrive for Business. You can add a work or school account to the new OneDrive for Business sync client and sync all your files in OneDrive to your computer.  For more information, see [Improve your OneDrive sync experience](https://go.microsoft.com/fwlink/p/?LinkId=717436).
+
 ## SYNOPSIS
 
 Add a new channel to a team.
